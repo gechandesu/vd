@@ -30,7 +30,7 @@ fn main() {
 	if flags.help {
 		println('generate and serve HTML documentation for V module')
 		println('')
-		println('usage: vdocs [-l addr:port] [<dir>]')
+		println('usage: vd [-l addr:port] [<dir>]')
 		println('')
 		println('options:')
 		println('  -help       print this help message and exit')

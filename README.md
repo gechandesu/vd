@@ -1,11 +1,11 @@
-# V Documentation Server
+# V documentation server
 
 Synopsis:
 
 ```
 generate and serve HTML documentation for V module
 
-usage: vdocs [-l addr:port] [<dir>]
+usage: vd [-l addr:port] [<dir>]
 
 options:
   -help       print this help message and exit
